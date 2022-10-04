@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< update_script
 echo "School"
+=======
+<<<<<<< HEAD
+echo "The school is open!"
+=======
+echo "School"
+>>>>>>> e9ef3384802b8da34c56cb25da72e26e58e8bedb
+>>>>>>> local
